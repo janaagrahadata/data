@@ -1,0 +1,9 @@
+G:\Project\ADAuth\ADAuth\bin\Debug\ADAuth.exe.config
+G:\Project\ADAuth\ADAuth\bin\Debug\ADAuth.exe
+G:\Project\ADAuth\ADAuth\bin\Debug\ADAuth.pdb
+G:\Project\ADAuth\ADAuth\obj\Debug\ADAuth.csprojResolveAssemblyReference.cache
+G:\Project\ADAuth\ADAuth\obj\Debug\ADAuth.frmADAuth.resources
+G:\Project\ADAuth\ADAuth\obj\Debug\ADAuth.Properties.Resources.resources
+G:\Project\ADAuth\ADAuth\obj\Debug\ADAuth.csproj.GenerateResource.Cache
+G:\Project\ADAuth\ADAuth\obj\Debug\ADAuth.exe
+G:\Project\ADAuth\ADAuth\obj\Debug\ADAuth.pdb

@@ -33,11 +33,11 @@ namespace ADAuth
             catch (LdapException lexc)
             {
                 string error = lexc.ServerErrorMessage;
-                lblResult.Text = lexc.ServerErrorMessage;
+                lblResult.Text = "Success:" + lexc.ServerErrorMessage;
             }
             catch (Exception exc)
             {
-                lblResult.Text = exc.Message;
+                lblResult.Text = "Error:" + exc.Message;
             }
         }
     }

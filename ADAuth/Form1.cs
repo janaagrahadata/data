@@ -24,7 +24,7 @@ namespace ADAuth
         {
             try
             {
-                LdapConnection connection = new LdapConnection("juf.local");
+                LdapConnection connection = new LdapConnection("janaagraha.net");
                 NetworkCredential credential = new NetworkCredential(edtUserName.Text, edtPassword.Text);
                 connection.Credential = credential;
                 connection.Bind();
@@ -37,7 +37,7 @@ namespace ADAuth
             }
             catch (Exception exc)
             {
-                lblResult.Text = exc.Message;
+                lblResult.Text = "Error:" + exc.Message;
             }
         }
     }

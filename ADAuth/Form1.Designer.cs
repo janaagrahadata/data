@@ -42,7 +42,7 @@
             this.btnCheck.Name = "btnCheck";
             this.btnCheck.Size = new System.Drawing.Size(142, 23);
             this.btnCheck.TabIndex = 0;
-            this.btnCheck.Text = "Check AD Authentication";
+            this.btnCheck.Text = "Check AD Auth";
             this.btnCheck.UseVisualStyleBackColor = true;
             this.btnCheck.Click += new System.EventHandler(this.btnCheck_Click);
             // 

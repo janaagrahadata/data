@@ -11,6 +11,7 @@ namespace ADAuth
         /// <summary>
         /// The main entry point for the application.
 		/// More description to be added here
+		/// More description to be added here
         /// </summary>
         [STAThread]
         static void Main()
